@@ -7,13 +7,13 @@
 
 Arguments:
 
-`-r` or `--role`            Mandatory: determines the user's role
+`-r` or `--role`            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Mandatory: determines the user's role
 
-`-a` or `--applications`    Optional: path to applications file
+`-a` or `--applications`    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Optional: path to applications file
 
-`-j` or `--jobs`            Optional: path to jobs file
+`-j` or `--jobs`            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; Optional: path to jobs file
 
-`-h` or `--help`            Optional: print Help (this message) and exit
+`-h` or `--help`            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; Optional: print Help (this message) and exit
 
 <br><br/>
  > Note: This is a copy of the original private repo, with all sensitive info removed.
